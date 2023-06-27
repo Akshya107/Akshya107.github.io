@@ -41781,29 +41781,29 @@ K(a){var s=null,r=A.a5(a),q=A.dc(16),p=r.p3,o=p.at,n=t.p
 return A.ch(s,A.ei(A.a([new A.bM(B.eF,A.d6(A.a([A.cz(A.bq("Balances",s,s,s,o.hI(B.k,18,B.U,0.25),s,s),3),A.ch(s,B.AS,B.n,s,s,new A.c6(B.df,s,s,A.dc(8),B.ih,s,B.R),s,32,s,s,s,s,32)],n),B.G,B.H,B.E),s),B.lV,new A.bM(B.hL,A.d6(A.a([A.bq("$",s,s,s,o.hI(B.df,24,B.U,0.38),s,s),B.lT,A.bq("Dollar",s,s,s,o.hI(B.k,16,B.U,0.25),s,s)],n),B.G,B.H,B.E),s),new A.bM(B.ES,A.bq("9784.79",s,s,s,p.d.oa(B.df,34,B.aM),s,s),s),B.lU,A.d6(A.a([A.cz(A.IW("images/creditCard.png",s,s),1)],n),B.G,B.ba,B.E),B.lU],n),B.aJ,B.ba,B.E),B.n,s,s,new A.c6(B.i,s,s,q,s,s,B.R),s,s,s,s,s,s,s)}}
 A.IN.prototype={
 K(a){var s,r,q,p,o=null,n=A.a5(a),m=t.p,l=A.a([],m)
-if(A.au1(a))l.push(A.cz(A.n4(B.V,A.a([A.fc("icons/drawer.svg",B.as,24,24),A.mt(B.T,o,A.J3(!1,!0,A.ch(o,o,B.n,o,o,B.n5,o,36,o,o,o,o,36),o,!0,o,o,o,o,o,o,o,o,o,new A.a3q(a),o,o,o,o),B.n,B.O,0,o,o,o,o,o,B.cM)],m),B.N,B.bX),1))
+if(A.au1(a))l.push(A.cz(A.n4(B.V,A.a([A.fc("assets/icons/drawer.svg",B.as,24,24),A.mt(B.T,o,A.J3(!1,!0,A.ch(o,o,B.n,o,o,B.n5,o,36,o,o,o,o,36),o,!0,o,o,o,o,o,o,o,o,o,new A.a3q(a),o,o,o,o),B.n,B.O,0,o,o,o,o,o,B.cM)],m),B.N,B.bX),1))
 s=n.p3
 l.push(A.cz(A.ei(A.a([A.bq("Hello Akshya Yaduvanshi",1,B.al,o,s.d.oa(B.k,20,B.aM),o,o),B.NU,A.bq("4.45 pm 19 Jan 2022",o,o,o,s.Q,o,o)],m),B.aJ,B.H,B.E),3))
 m=A.dc(8)
 r=A.dc(8)
 q=A.dc(8)
 p=A.dc(8)
-p=A.asX(o,new A.eJ(4,m,B.cz),o,o,o,o,o,new A.eJ(4,A.dc(8),B.cz),!0,new A.eJ(4,q,B.cz),new A.eJ(4,r,B.cz),o,o,o,B.i,!0,o,o,o,B.i,new A.eJ(4,p,B.cz),new A.eJ(4,A.dc(8),B.cz),o,o,o,o,B.R0,"Search",o,B.i,o,o,!1,o,o,o,o,o,new A.bM(B.om,A.fc("icons/search.svg",B.as,20,20),o),o,o,o,o,o,o,o,o,o,o,o)
+p=A.asX(o,new A.eJ(4,m,B.cz),o,o,o,o,o,new A.eJ(4,A.dc(8),B.cz),!0,new A.eJ(4,q,B.cz),new A.eJ(4,r,B.cz),o,o,o,B.i,!0,o,o,o,B.i,new A.eJ(4,p,B.cz),new A.eJ(4,A.dc(8),B.cz),o,o,o,o,B.R0,"Search",o,B.i,o,o,!1,o,o,o,o,o,new A.bM(B.om,A.fc("assets/icons/search.svg",B.as,20,20),o),o,o,o,o,o,o,o,o,o,o,o)
 l.push(A.cz(new A.AK(p,B.Po,B.bA,B.NW,B.NX,B.KR,!0,o),3))
 l.push(B.xG)
 m=A.dc(8)
-l.push(A.ch(o,A.kk(A.fc("icons/bell.svg",B.as,o,o),o,o),B.n,o,o,new A.c6(B.i,o,o,m,B.ih,o,B.R),o,48,o,o,o,o,48))
+l.push(A.ch(o,A.kk(A.fc("assets/icons/bell.svg",B.as,o,o),o,o),B.n,o,o,new A.c6(B.i,o,o,m,B.ih,o,B.R),o,48,o,o,o,o,48))
 l.push(B.xD)
 l.push(A.bq("Akshya Yaduvanshi",1,B.al,o,s.at.hI(B.k,16,B.U,0.25),o,o))
 l.push(B.lS)
-l.push(A.IW("images/user.png",48,48))
+l.push(A.IW("assets/images/user.png",48,48))
 return A.d6(l,B.G,B.H,B.E)}}
 A.a3q.prototype={
 $0(){A.a7t(this.a,!1,t._u).NW()},
 $S:0}
 A.Jv.prototype={
 K(a){var s=null,r=A.a5(a),q=A.dc(16),p=r.p3,o=t.p
-return A.ch(s,A.ei(A.a([new A.bM(B.EW,A.d6(A.a([A.cz(A.ei(A.a([A.bq("Market Overview",s,s,s,p.at.hI(B.k,18,B.U,0.25),s,s),B.fO,A.bq("7.2141,997.5 (25%)",s,s,s,p.Q.cD(B.de),s,s)],o),B.aJ,B.H,B.b4),2),A.hH(A.aD0(new A.a5h(),5,B.iI,B.aq,new A.a5i(),!0),32,s)],o),B.aJ,B.H,B.b4),s),A.d6(A.a([A.cz(A.fc("images/marketGraph.svg",B.zF,s,s),1)],o),B.G,B.H,B.E)],o),B.G,B.ba,B.E),B.n,s,s,new A.c6(B.i,s,s,q,s,s,B.R),s,s,s,s,s,s,s)}}
+return A.ch(s,A.ei(A.a([new A.bM(B.EW,A.d6(A.a([A.cz(A.ei(A.a([A.bq("Market Overview",s,s,s,p.at.hI(B.k,18,B.U,0.25),s,s),B.fO,A.bq("7.2141,997.5 (25%)",s,s,s,p.Q.cD(B.de),s,s)],o),B.aJ,B.H,B.b4),2),A.hH(A.aD0(new A.a5h(),5,B.iI,B.aq,new A.a5i(),!0),32,s)],o),B.aJ,B.H,B.b4),s),A.d6(A.a([A.cz(A.fc("assets/images/marketGraph.svg",B.zF,s,s),1)],o),B.G,B.H,B.E)],o),B.G,B.ba,B.E),B.n,s,s,new A.c6(B.i,s,s,q,s,s,B.R),s,s,s,s,s,s,s)}}
 A.a5i.prototype={
 $2(a,b){return B.lT},
 $S:290}
@@ -41813,7 +41813,7 @@ return A.ch(s,B.AR,B.n,s,s,new A.c6(B.i,s,A.arQ(B.nQ),r,s,s,B.R),s,32,s,B.bL,s,s
 $S:294}
 A.rT.prototype={
 K(a){var s=null,r=A.a5(a),q=A.dc(16),p=this.c,o=r.p3,n=o.at,m=t.p
-return A.ch(s,new A.bM(B.EV,A.d6(A.a([A.ei(A.a([A.fc(p.c,B.as,s,s),B.cp,A.d6(A.a([A.bq(p.a,s,s,s,n.hI(B.k,16,B.U,0.25),s,s),new A.bM(B.ol,A.fc("images/bitwoarrow.svg",B.as,12,12),s),A.bq("USD",s,s,s,n.hI(B.k,16,B.U,0.25),s,s)],m),B.G,B.H,B.E),B.fO,A.bq(p.d,s,s,s,o.d.oa(B.k,20,B.aM),s,s),B.cp,A.d6(A.a([A.fc(p.f,B.as,10,14),B.NR,A.bq(p.b,s,s,s,s,s,s)],m),B.G,B.H,B.b4)],m),B.aJ,B.ba,B.E),A.cz(A.fc(p.e,B.as,s,s),1)],m),B.G,B.H,B.E),s),B.n,s,s,new A.c6(B.i,s,s,q,s,s,B.R),s,s,s,s,s,s,s)}}
+return A.ch(s,new A.bM(B.EV,A.d6(A.a([A.ei(A.a([A.fc(p.c,B.as,s,s),B.cp,A.d6(A.a([A.bq(p.a,s,s,s,n.hI(B.k,16,B.U,0.25),s,s),new A.bM(B.ol,A.fc("assets/images/bitwoarrow.svg",B.as,12,12),s),A.bq("USD",s,s,s,n.hI(B.k,16,B.U,0.25),s,s)],m),B.G,B.H,B.E),B.fO,A.bq(p.d,s,s,s,o.d.oa(B.k,20,B.aM),s,s),B.cp,A.d6(A.a([A.fc(p.f,B.as,10,14),B.NR,A.bq(p.b,s,s,s,s,s,s)],m),B.G,B.H,B.b4)],m),B.aJ,B.ba,B.E),A.cz(A.fc(p.e,B.as,s,s),1)],m),B.G,B.H,B.E),s),B.n,s,s,new A.c6(B.i,s,s,q,s,s,B.R),s,s,s,s,s,s,s)}}
 A.Jw.prototype={
 K(a){return B.Ml}}
 A.rS.prototype={
@@ -41823,8 +41823,8 @@ A.a5g.prototype={
 $2(a,b){return new A.rT($.aDi[b],null)},
 $S:295}
 A.JO.prototype={
-K(a){var s=null,r=A.a5(a),q=t.p,p=A.n4(B.cw,A.a([A.fc("icons/drawer.svg",B.as,24,24),A.mt(B.T,s,A.J3(!1,!0,A.ch(s,s,B.n,s,s,B.n5,s,24,s,s,s,s,24),s,!0,s,s,s,s,s,s,s,s,s,new A.a5z(a),s,s,s,s),B.n,B.O,0,s,s,s,s,s,B.cM)],q),B.N,B.bX),o=A.IW("logo/logo.png",36,36),n=A.dc(8),m=r.p3.d
-return A.ch(s,new A.bM(B.ER,A.ei(A.a([A.d6(A.a([p,B.xG,o,B.NS,A.ch(s,A.kk(A.fc("icons/bell.svg",B.as,s,s),s,s),B.n,s,s,new A.c6(B.i,s,s,n,B.ih,s,B.R),s,40,s,s,s,s,40),B.xD,A.IW("images/user.png",40,40)],q),B.G,B.H,B.E),B.LO,A.d6(A.a([A.cz(A.bq("Akshya Yaduvanshi",1,B.al,s,m.oa(B.k,20,B.aM),s,s),1),A.bq("19 Jan 2022",1,B.al,s,m.oa(B.bJ,14,B.U),s,s)],q),B.G,B.H,B.E)],q),B.aJ,B.H,B.b4),s),B.n,s,s,B.zE,s,s,s,s,s,s,s)}}
+K(a){var s=null,r=A.a5(a),q=t.p,p=A.n4(B.cw,A.a([A.fc("assets/icons/drawer.svg",B.as,24,24),A.mt(B.T,s,A.J3(!1,!0,A.ch(s,s,B.n,s,s,B.n5,s,24,s,s,s,s,24),s,!0,s,s,s,s,s,s,s,s,s,new A.a5z(a),s,s,s,s),B.n,B.O,0,s,s,s,s,s,B.cM)],q),B.N,B.bX),o=A.IW("assets/logo/logo.png",36,36),n=A.dc(8),m=r.p3.d
+return A.ch(s,new A.bM(B.ER,A.ei(A.a([A.d6(A.a([p,B.xG,o,B.NS,A.ch(s,A.kk(A.fc("assets/icons/bell.svg",B.as,s,s),s,s),B.n,s,s,new A.c6(B.i,s,s,n,B.ih,s,B.R),s,40,s,s,s,s,40),B.xD,A.IW("assets/images/user.png",40,40)],q),B.G,B.H,B.E),B.LO,A.d6(A.a([A.cz(A.bq("Akshya Yaduvanshi",1,B.al,s,m.oa(B.k,20,B.aM),s,s),1),A.bq("19 Jan 2022",1,B.al,s,m.oa(B.bJ,14,B.U),s,s)],q),B.G,B.H,B.E)],q),B.aJ,B.H,B.b4),s),B.n,s,s,B.zE,s,s,s,s,s,s,s)}}
 A.a5z.prototype={
 $0(){A.a7t(this.a,!1,t._u).NW()},
 $S:0}
@@ -41864,10 +41864,10 @@ A.Nx.prototype={
 K(a){var s,r,q=null,p=A.a5(a),o=A.dc(16),n=p.p3,m=n.at,l=A.bq("Team",q,q,q,m.hI(B.k,18,B.U,0.25),q,q),k=A.dc(12),j=A.dc(8)
 n=n.Q
 s=t.p
-k=A.ch(q,A.d6(A.a([A.ch(q,A.kk(A.fc("icons/admin.svg",B.as,24,24),q,q),B.n,q,q,new A.ee(B.BT,q,q,B.p3,new A.cr(j,B.q)),q,q,q,q,q,q,q),B.lS,A.cz(A.ei(A.a([A.bq("Total Admin",1,B.al,q,m.hI(B.k,16,B.U,0.25),q,q),A.bq("6",q,q,q,n,q,q)],s),B.aJ,B.ba,B.E),1)],s),B.G,B.H,B.E),B.n,q,q,new A.ee(B.Be,q,q,q,new A.cr(k,B.q)),q,q,q,B.oj,q,q,q)
+k=A.ch(q,A.d6(A.a([A.ch(q,A.kk(A.fc("assets/icons/admin.svg",B.as,24,24),q,q),B.n,q,q,new A.ee(B.BT,q,q,B.p3,new A.cr(j,B.q)),q,q,q,q,q,q,q),B.lS,A.cz(A.ei(A.a([A.bq("Total Admin",1,B.al,q,m.hI(B.k,16,B.U,0.25),q,q),A.bq("6",q,q,q,n,q,q)],s),B.aJ,B.ba,B.E),1)],s),B.G,B.H,B.E),B.n,q,q,new A.ee(B.Be,q,q,q,new A.cr(k,B.q)),q,q,q,B.oj,q,q,q)
 j=A.dc(12)
 r=A.dc(8)
-return A.ch(q,new A.bM(B.ET,A.ei(A.a([l,B.cp,k,B.cp,A.ch(q,A.d6(A.a([A.ch(q,A.kk(A.fc("icons/team.svg",B.as,24,24),q,q),B.n,q,q,new A.ee(B.de,q,q,B.p3,new A.cr(r,B.q)),q,q,q,q,q,q,q),B.lS,A.cz(A.ei(A.a([A.bq("Team Member",1,B.al,q,m.hI(B.k,16,B.U,0.25),q,q),A.bq("6",q,q,q,n,q,q)],s),B.aJ,B.ba,B.E),1)],s),B.G,B.H,B.E),B.n,q,q,new A.ee(B.DD,q,q,q,new A.cr(j,B.q)),q,q,q,B.oj,q,q,q)],s),B.aJ,B.ba,B.E),q),B.n,q,q,new A.c6(B.i,q,q,o,q,q,B.R),q,q,q,q,q,q,q)}}
+return A.ch(q,new A.bM(B.ET,A.ei(A.a([l,B.cp,k,B.cp,A.ch(q,A.d6(A.a([A.ch(q,A.kk(A.fc("assets/icons/team.svg",B.as,24,24),q,q),B.n,q,q,new A.ee(B.de,q,q,B.p3,new A.cr(r,B.q)),q,q,q,q,q,q,q),B.lS,A.cz(A.ei(A.a([A.bq("Team Member",1,B.al,q,m.hI(B.k,16,B.U,0.25),q,q),A.bq("6",q,q,q,n,q,q)],s),B.aJ,B.ba,B.E),1)],s),B.G,B.H,B.E),B.n,q,q,new A.ee(B.DD,q,q,q,new A.cr(j,B.q)),q,q,q,B.oj,q,q,q)],s),B.aJ,B.ba,B.E),q),B.n,q,q,new A.c6(B.i,q,q,o,q,q,B.R),q,q,q,q,q,q,q)}}
 A.H7.prototype={
 K(a){var s=t.p,r=A.a([],s),q=t.w
 if(!(a.U(q).f.a.a<850))r.push(B.FA)
@@ -41882,8 +41882,8 @@ r=A.ei(r,B.G,B.H,B.E)
 q=a.U(q).f
 return A.apy(!0,new A.MP(!1,A.ei(A.a([new A.bM(B.EQ,r,null),new A.On(A.ei(B.H2,B.G,B.H,B.E),q.a.a<850,null)],s),B.G,B.H,B.b4),null),B.aL,!0)}}
 A.MO.prototype={
-K(a){var s=null,r=A.a5(a).p3,q=t.p,p=A.ei(A.a([A.d6(A.a([A.cz(A.IW("logo/logo.png",s,s),1),B.NQ,A.cz(A.bq("ZARVES",1,B.al,s,r.d.oa(B.k,20,B.aM),s,s),3)],q),B.G,B.ba,B.E),B.cp],q),B.G,B.ba,B.b4),o=A.dc(16),n=r.y
-q=A.a([new A.HU(p,s),B.lT,B.cp,new A.kr("Dashboard","icons/dashboard.svg",new A.aaF(),s),new A.kr("Exchange","icons/exchange.svg",new A.aaG(),s),new A.kr("Library","icons/library.svg",new A.aaH(),s),new A.kr("Schedules","icons/schedules.svg",new A.aaI(),s),new A.kr("Payouts","icons/payouts.svg",new A.aaJ(),s),new A.kr("Settings","icons/settings.svg",new A.aaK(),s),B.lV,A.ch(B.mR,A.ei(A.a([A.fc("icons/safe.svg",B.as,72,72),A.bq("Keep you safe!",s,s,s,n.O2(B.i,B.aM),s,s),B.fO,A.bq("Update your security password, keep your account safe!",3,B.al,s,r.Q.Ct(B.k,10),B.m7,s),B.lU,A.bq("Update Privacy",s,s,s,n.O2(B.i,B.aM),s,s),B.fO],q),B.G,B.H,B.b4),B.n,s,s,new A.c6(B.de,s,s,o,s,s,B.R),s,s,s,B.eF,s,s,s)],q)
+K(a){var s=null,r=A.a5(a).p3,q=t.p,p=A.ei(A.a([A.d6(A.a([A.cz(A.IW("assets/logo/logo.png",s,s),1),B.NQ,A.cz(A.bq("ZARVES",1,B.al,s,r.d.oa(B.k,20,B.aM),s,s),3)],q),B.G,B.ba,B.E),B.cp],q),B.G,B.ba,B.b4),o=A.dc(16),n=r.y
+q=A.a([new A.HU(p,s),B.lT,B.cp,new A.kr("Dashboard","assets/icons/dashboard.svg",new A.aaF(),s),new A.kr("Exchange","assets/icons/exchange.svg",new A.aaG(),s),new A.kr("Library","assets/icons/library.svg",new A.aaH(),s),new A.kr("Schedules","assets/icons/schedules.svg",new A.aaI(),s),new A.kr("Payouts","assets/icons/payouts.svg",new A.aaJ(),s),new A.kr("Settings","assets/icons/settings.svg",new A.aaK(),s),B.lV,A.ch(B.mR,A.ei(A.a([A.fc("assets/icons/safe.svg",B.as,72,72),A.bq("Keep you safe!",s,s,s,n.O2(B.i,B.aM),s,s),B.fO,A.bq("Update your security password, keep your account safe!",3,B.al,s,r.Q.Ct(B.k,10),B.m7,s),B.lU,A.bq("Update Privacy",s,s,s,n.O2(B.i,B.aM),s,s),B.fO],q),B.G,B.H,B.b4),B.n,s,s,new A.c6(B.de,s,s,o,s,s,B.R),s,s,s,B.eF,s,s,s)],q)
 o=A.aT([null,0],t.LO,t.S)
 r=!0
 r=r?B.yz:s
@@ -84710,14 +84710,14 @@ B.L5=new A.mw(1,"clipRRect")
 B.L6=new A.mw(2,"clipPath")
 B.L7=new A.mw(3,"transform")
 B.L8=new A.mw(4,"opacity")
-B.L9=new A.mx("Bitcoin","+1545,00","images/Bit_Coin.svg","10:45:16 AM","Completed")
-B.La=new A.mx("Ethereum","+5649,00","images/Eth.svg","09:15:31 AM","Pending")
-B.Lb=new A.mx("LTC","+4547,00","images/Lthm.svg","09:01:12 AM","Completed")
+B.L9=new A.mx("Ethereum","+5649,00","assets/images/Eth.svg","09:15:31 AM","Pending")
+B.La=new A.mx("Bitcoin","+1545,00","assets/images/Bit_Coin.svg","10:45:16 AM","Completed")
+B.Lb=new A.mx("LTC","+4547,00","assets/images/Lthm.svg","09:01:12 AM","Completed")
 B.Lc=new A.JX(null)
-B.Ld=new A.oF("LTC","5.2%","images/Lthm.svg","8741.19","images/lossGraph.svg","images/loss.svg")
-B.Le=new A.oF("BTC","7.2%","images/Bit_Coin.svg","9784.79","images/growthGraph.svg","images/profit.svg")
-B.Lf=new A.oF("BNB","9.5%","images/Binance.svg","6547.99","images/growthGraph.svg","images/profit.svg")
-B.Lg=new A.oF("ETM","6.5%","images/Eth.svg","4567.16","images/growthGraph.svg","images/profit.svg")
+B.Ld=new A.oF("BTC","7.2%","assets/images/Bit_Coin.svg","9784.79","assets/images/growthGraph.svg","assets/images/profit.svg")
+B.Le=new A.oF("ETM","6.5%","assets/images/Eth.svg","4567.16","assets/images/growthGraph.svg","assets/images/profit.svg")
+B.Lf=new A.oF("BNB","9.5%","assets/images/Binance.svg","6547.99","assets/images/growthGraph.svg","assets/images/profit.svg")
+B.Lg=new A.oF("LTC","5.2%","assets/images/Lthm.svg","8741.19","assets/images/lossGraph.svg","assets/images/loss.svg")
 B.Li=new A.yy(null,null,null,null,null,null,null,null,null,null)
 B.Lj=new A.yz(null,null,null,null,null,null,null,null,null,null)
 B.fi=new A.K3(0,"traditional")
@@ -85695,8 +85695,8 @@ $.atJ=null
 $.atK=null
 $.asT=null
 $.ap1=null
-$.JW=A.a([B.L9,B.La,B.Lb],A.Z("r<mx>"))
-$.aDi=A.a([B.Le,B.Ld,B.Lg,B.Lf],A.Z("r<oF>"))
+$.JW=A.a([B.La,B.L9,B.Lb],A.Z("r<mx>"))
+$.aDi=A.a([B.Ld,B.Lg,B.Le,B.Lf],A.Z("r<oF>"))
 $.aCm=A.aIT()
 $.aoN=0
 $.It=A.a([],A.Z("r<aMC>"))
